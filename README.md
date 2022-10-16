@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/-Linkedin-6610F2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/iuricode"/>
   </a>
   
-  <a href = "mailto:contatorafaballerini@gmail.com">
+  <a href = "mailto:ayrtonfilhodev@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
   
