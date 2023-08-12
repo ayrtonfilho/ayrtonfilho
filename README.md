@@ -1,7 +1,7 @@
 
 ## Olá, seja bem vindo(a)! 💻🤍
 
-- Minha experiência com frameworks populares, como React e Angular, permite-me criar interfaces interativas e dinâmicas que elevam a experiência do usuário a um novo patamar. Estou comprometido em manter-me atualizado com as últimas tendências e técnicas, garantindo que meus projetos estejam sempre na vanguarda da inovação. Navegue pelo meu portfólio para explorar alguns dos projetos importantes que tive a honra de desenvolver. Cada projeto é uma oportunidade para mim de mostrar minha abordagem criativa e minha dedicação à excelência técnica. Esteja você procurando por um site pessoal, uma loja online ou qualquer outra presença digital, estou aqui para transformar sua visão em realidade! ✨☺
+Minha experiência com frameworks populares, como React e Angular, permite-me criar interfaces interativas e dinâmicas que elevam a experiência do usuário a um novo patamar. Estou comprometido em manter-me atualizado com as últimas tendências e técnicas, garantindo que meus projetos estejam sempre na vanguarda da inovação. Navegue pelo meu portfólio para explorar alguns dos projetos importantes que tive a honra de desenvolver. Cada projeto é uma oportunidade para mim de mostrar minha abordagem criativa e minha dedicação à excelência técnica. Esteja você procurando por um site pessoal, uma loja online ou qualquer outra presença digital, estou aqui para transformar sua visão em realidade! ✨☺
 
 
 #### Tem alguma dúvida ou quer falar sobre algum projeto?
