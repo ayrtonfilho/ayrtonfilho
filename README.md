@@ -9,12 +9,12 @@ Este é o meu portfólio para que você possa explorar alguns dos projetos impor
 #### Tem alguma dúvida ou quer falar sobre algum projeto?
 
 <p align="left">
-  <a href="https://www.instagram.com/ayrtonfilho_/" alt="Instagram">
-    <img src="https://img.shields.io/badge/-Instagram-6610F2?style=for-the-badge&logo=Instagram&logoColor=FFFFFF&link=https://www.instagram.com/iuricode"/>
+  <a href="https://www.instagram.com/ayrtonfilho_/" alt="Instagram" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-6610F2?style=for-the-badge&logo=Instagram&logoColor=FFFFFF&link=https://www.instagram.com/ayrtonfilho_"/>
   </a>
   
-  <a href="https://www.linkedin.com/in/airton-filho" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Linkedin-6610F2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/iuricode"/>
+  <a href="https://www.linkedin.com/in/airton-filho/" alt="Linkedin" target="_blank">
+    <img src="https://img.shields.io/badge/-Linkedin-6610F2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/airton-filho/"/>
   </a>
   
   <a href = "mailto:ayrtonfilhodev@gmail.com">
