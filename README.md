@@ -40,25 +40,3 @@ Minha experiência com frameworks populares, como React e Angular, permite-me cr
 
 <br>
 <br>
-
-<div align="left">
-  <a href="https://github.com/ayrtonfilho">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ayrtonfilho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayrtonfilho&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
-</div>
-
-<!-- ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg) -->
-
-<!--
-Here are some ideas to get you started:
-
-- 🔭 Atualmente estou trabalhando em...
-- 🌱 Atualmente estou aprendendo...
-- 👯 Estou procurando colaborar em...
-- 🤔 Estou procurando ajuda com...
-- 💬 Pergunte-me sobre...
-- 📫 Como chegar até mim: ...
-- 😄 Pronomes: ...
-- ⚡ Curiosidade: 
--->
