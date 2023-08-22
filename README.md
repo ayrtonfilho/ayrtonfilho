@@ -39,6 +39,3 @@ Este é o meu portfólio para que você possa explorar alguns dos projetos impor
   <img align="center" alt="Airton-Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
           
 </div>
-
-<br>
-<br>
