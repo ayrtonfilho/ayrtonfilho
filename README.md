@@ -38,7 +38,7 @@ Este é o meu portfólio para que você possa explorar alguns dos projetos impor
 </p>
 
 <div style="display: inline_block"><br>
-
+  
   <img align="center" alt="Airton-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
   <img align="center" alt="Airton-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="Airton-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -51,5 +51,5 @@ Este é o meu portfólio para que você possa explorar alguns dos projetos impor
   <img align="center" alt="Airton-Postgree" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
   <img align="center" alt="Airton-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Airton-Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
-          
+  
 </div>
