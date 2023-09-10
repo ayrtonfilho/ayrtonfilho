@@ -1,5 +1,5 @@
 
-## Olá! 💻🤍
+## Software Engineer 💻🤍
 
 Minha experiência com frameworks como React e Angular, me permite criar interfaces interativas e dinâmicas que contribuem com a experiência do usuário. Estou me dedicando diariamente para me manter atualizado com as ferramentas e técnicas mais atuais e utilizadas no mercado, garantindo que meus projetos estejam sempre atualizados e manuteníveis. 
 
