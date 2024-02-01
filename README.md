@@ -1,9 +1,9 @@
 
 ## Software Engineer 💻🤍
 
-Minha experiência com frameworks como React e Angular, me permite criar interfaces interativas e dinâmicas que contribuem com a experiência do usuário. Estou me dedicando diariamente para me manter atualizado com as ferramentas e técnicas mais atuais e utilizadas no mercado, garantindo que meus projetos estejam sempre atualizados e manuteníveis. 
+Engenheiro de Software com especialização e estudos eficientes na área de tecnologia e inovação, com mais de cinco anos de experiência em desenvolvimento front-end e back-end. Atualmente, trabalho na CVC CORP, uma das maiores empresas de turismo do Brasil, onde sou responsável por garantir o desenvolvimento contínuo dos projetos de grande porte, utilizando React, Java, Spring Boot, Node, e outras ferramentas e tecnologias para garantir sólida fluidez na navegação dos usuários.
 
-Este é o meu portfólio para que você possa explorar alguns dos projetos importantes que me dediquei a desenvolver. Cada projeto é uma oportunidade para mim de mostrar minha abordagem criativa e minha dedicação à excelência técnica. Caso você esteja procurando por um site pessoal, uma loja online ou qualquer outra presença digital, estou aqui para transformar sua visão em realidade! ✨🚀
+Além disso, estou cursando bacharelado em Engenharia de Software na Universidade Cruzeiro do Sul e Defesa Cibernética na FIAP, buscando aprimorar meus conhecimentos e habilidades em áreas como Segurança da Informação, Cloud Computing, DevOps, e Pericia Computacional. Possuo também diversas certificações em desenvolvimento web, testes com API, e operações de desenvolvimento, que comprovam minha proficiência e dedicação. Meu objetivo é crescer e evoluir profissionalmente, contribuindo para a transformação digital e a solução de problemas complexos! ✨🚀
 
 
 #### Tem alguma dúvida ou quer falar sobre algum projeto?
