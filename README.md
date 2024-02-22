@@ -36,9 +36,6 @@ Além disso, estou cursando bacharelado em Engenharia de Software na Universidad
     >
   </a>
 </p>
-<h1 align="center">
-  👋 Hello! I'm <a href="https://nicholasgriffin.dev" target="_blank">Nicholas Griffin</a>
-</h1>
 
 <div style="display: inline_block"><br>
   <p align="center">
