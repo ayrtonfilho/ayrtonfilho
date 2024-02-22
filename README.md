@@ -36,6 +36,19 @@ Além disso, estou cursando bacharelado em Engenharia de Software na Universidad
     >
   </a>
 </p>
+<h1 align="center">
+  👋 Hello! I'm <a href="https://nicholasgriffin.dev" target="_blank">Nicholas Griffin</a>
+</h1>
+
+<div style="display: inline_block"><br>
+  <p align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://nicholasgriffintn.github.io/nicholasgriffintn/github-contribution-grid-snake-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://nicholasgriffintn.github.io/nicholasgriffintn/github-contribution-grid-snake.svg">
+      <img alt="My Contributions Graph" src="https://nicholasgriffintn.github.io/nicholasgriffintn/github-contribution-grid-snake.svg">
+    </picture>
+  </p>
+</div>
 
 <div style="display: inline_block"><br>
   
