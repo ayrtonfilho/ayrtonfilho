@@ -1,5 +1,5 @@
 
-## Software Engineer 💻🤍
+## Hello! I'm Software Engineer! 💻🤍
 
 Engenheiro de Software com especialização e estudos eficientes na área de tecnologia e inovação, com mais de cinco anos de experiência em desenvolvimento front-end e back-end. Atualmente, trabalho na CVC CORP, uma das maiores empresas de turismo do Brasil, onde sou responsável por garantir o desenvolvimento contínuo dos projetos de grande porte, utilizando React, Java, Spring Boot, Node, e outras ferramentas e tecnologias para garantir sólida fluidez na navegação dos usuários.
 
