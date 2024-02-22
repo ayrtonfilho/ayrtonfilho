@@ -38,7 +38,7 @@ Além disso, estou cursando bacharelado em Engenharia de Software na Universidad
 </p>
 
 <div style="display: inline_block"><br>
-  <p align="center">
+  <p>
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://nicholasgriffintn.github.io/nicholasgriffintn/github-contribution-grid-snake-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="https://nicholasgriffintn.github.io/nicholasgriffintn/github-contribution-grid-snake.svg">
