@@ -7,7 +7,6 @@ Além disso, estou cursando bacharelado em Engenharia de Software na Universidad
 
 
 #### Tem alguma dúvida ou quer falar sobre algum projeto?
-
 <p align="left">
   <a 
     href="https://www.instagram.com/ayrtonfilho_/"
