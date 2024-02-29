@@ -4,7 +4,7 @@
 Engenheiro de Software com especialização e estudos eficientes na área de tecnologia e inovação, com mais de cinco anos de experiência em desenvolvimento front-end e back-end. Atualmente, trabalho na CVC CORP, uma das maiores empresas de turismo do Brasil, onde sou responsável por garantir o desenvolvimento contínuo dos projetos de grande porte, utilizando React, Java, Spring Boot, Selenium,Node, e outras ferramentas e tecnologias para garantir sólida fluidez na navegação dos usuários.
 
 Além disso, estou cursando bacharelado em Engenharia de Software na UNICSUL e Defesa Cibernética na FIAP, buscando aprimorar meus conhecimentos e habilidades em áreas como Segurança da Informação, Cloud Computing, DevOps, e Pericia Computacional. Possuo também diversas certificações em desenvolvimento web, testes com API, e operações de desenvolvimento, que comprovam minha proficiência e dedicação. Meu objetivo é crescer e evoluir profissionalmente, contribuindo para a transformação digital e a solução de problemas complexos! ✨🚀
-
+ 
 
 #### Tem alguma dúvida ou quer falar sobre algum projeto?
 <p align="left">
