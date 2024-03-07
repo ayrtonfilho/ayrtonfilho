@@ -35,7 +35,7 @@ Além disso, estou cursando bacharelado em Engenharia de Software na UNICSUL e D
     >
   </a>
 </p>
-
+      
 <div style="display: inline_block"><br>
   <p>
     <picture>
