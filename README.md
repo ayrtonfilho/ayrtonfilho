@@ -1,4 +1,4 @@
-
+          
 ## Hello! I'm Software Engineer! 💻🤍
                           
 Engenheiro de Software com mais de +5 anos de experiência, minha jornada profissional abrange tanto o desenvolvimento front-end quanto back-end, empregando habilidades primordiais em React, Java, Spring Boot, Selenium e outras habilidades técnicas para garantir uma experiência de usuário fluida e imersiva. Paralelamente, como estudante dedicado na UNICSUL e na FIAP, estou cursando um bacharelado em Engenharia de Software e Tecnólogo em Defesa Cibernética, onde tenho a oportunidade de aprimorar competências em áreas cruciais como Segurança da Informação, DevOps, e Perícia Computacional. Minha busca incessante pelo conhecimento é respaldada por uma gama de certificações em desenvolvimento web, testes com API, e operações de desenvolvimento, validando minha habilidade e compromisso com o aprendizado de novas tecnologias e aperfeiçoamento técnico.
