@@ -5,7 +5,7 @@ Engenheiro de Software com mais de +5 anos de experiência, minha jornada profis
 
 Minha trajetória tenho inúmeras experiências, pois incorporo práticas ágeis como Domain Driven Design (BDD) e Test Driven Development (TDD), assim como o domínio de ferramentas essenciais como Docker, Kubernetes, e Jenkins. Meu repertório inclui a arquitetura de microsserviços e o desenvolvimento de front end com React, onde aplico habilidades avançadas em HTML, CSS, e JavaScript para criar interfaces intuitivas e cativantes. Além disso, minha familiaridade com bancos de dados SQL e NoSQL, juntamente com práticas de versionamento de código e a adesão a Clean Code, solidificam meu compromisso com a entrega de soluções de alta qualidade em um cenário digital em constante evolução. ✨🚀
                                                                                                           
-                                                                                             
+                                                                                                       
 #### Tem alguma dúvida ou quer falar sobre algum projeto?
 <p align="left">
   <a 
